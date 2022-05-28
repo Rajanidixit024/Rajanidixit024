@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajani Dixit</h1>
+<h3 align="center">A Web Admirer</h3>
 
-<!--
-**Rajanidixit024/Rajanidixit024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Node js, Mongo db and Express js
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning **DSA , Node , Express , MongoDB **
+ 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about **C++ , Html ,Css, Javascript**
+
+- 📫 How to reach me: **rajanidixit024@gmail.com**
+
+- ⚡ Fun fact: **I love to be in love with me**
+
