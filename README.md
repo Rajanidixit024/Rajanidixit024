@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajani Dixit</h1>
 <h3 align="center">A Web Admirer</h3>
 
-- 🌱 I’m currently learning **DSA , Node , Express , MongoDB**
- 
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning  **DSA , Node , Express , MongoDB**
 
-- 💬 Ask me about **C++ , Html ,Css, Javascript**
+- 💬 Ask me about  **C++ , Html ,Css, Javascript**
 
 - 📫 How to reach me: **rajanidixit024@gmail.com**
 
