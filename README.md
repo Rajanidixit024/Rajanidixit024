@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajani Dixit</h1>
-<h3 align="center">A Web Admirer</h3>
+<h3 align="center">A Web Admirer and CP Enthusiast</h3>
 
 - 🌱 I’m currently learning  **DSA , Node.js , Express.js , MongoDB**
 
